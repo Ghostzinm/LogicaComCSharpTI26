@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calculo_de_Idade\bin\Debug\calculo_de_Idade.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calculo_de_Idade\bin\Debug\calculo_de_Idade.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calculo_de_Idade\bin\Debug\calculo_de_Idade.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calculo_de_Idade\obj\Debug\calculo_de_Idade.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calculo_de_Idade\obj\Debug\calculo_de_Idade.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calculo_de_Idade\obj\Debug\calculo_de_Idade.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calculo_de_Idade\obj\Debug\calculo_de_Idade.pdb
