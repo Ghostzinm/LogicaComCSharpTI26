@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\maior ou menor numero\obj\Debug\maior ou menor numero.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\maior ou menor numero\obj\Debug\maior ou menor numero.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\maior ou menor numero\bin\Debug\maior ou menor numero.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\maior ou menor numero\bin\Debug\maior ou menor numero.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\maior ou menor numero\bin\Debug\maior ou menor numero.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\maior ou menor numero\obj\Debug\maior ou menor numero.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\maior ou menor numero\obj\Debug\maior ou menor numero.pdb
