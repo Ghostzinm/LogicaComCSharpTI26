@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual maior entre os 3 numero\bin\Debug\qual maior entre os 3 numero.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual maior entre os 3 numero\bin\Debug\qual maior entre os 3 numero.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual maior entre os 3 numero\bin\Debug\qual maior entre os 3 numero.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual maior entre os 3 numero\obj\Debug\qual maior entre os 3 numero.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual maior entre os 3 numero\obj\Debug\qual maior entre os 3 numero.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual maior entre os 3 numero\obj\Debug\qual maior entre os 3 numero.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual maior entre os 3 numero\obj\Debug\qual maior entre os 3 numero.pdb
