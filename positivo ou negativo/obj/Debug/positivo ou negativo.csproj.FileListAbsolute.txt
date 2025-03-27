@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\positivo ou negativo\bin\Debug\positivo ou negativo.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\positivo ou negativo\bin\Debug\positivo ou negativo.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\positivo ou negativo\bin\Debug\positivo ou negativo.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\positivo ou negativo\obj\Debug\positivo ou negativo.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\positivo ou negativo\obj\Debug\positivo ou negativo.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\positivo ou negativo\obj\Debug\positivo ou negativo.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\positivo ou negativo\obj\Debug\positivo ou negativo.pdb
