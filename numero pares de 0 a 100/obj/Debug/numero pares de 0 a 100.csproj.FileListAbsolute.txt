@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\numero pares de 0 a 100\bin\Debug\numero pares de 0 a 100.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\numero pares de 0 a 100\bin\Debug\numero pares de 0 a 100.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\numero pares de 0 a 100\bin\Debug\numero pares de 0 a 100.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\numero pares de 0 a 100\obj\Debug\numero pares de 0 a 100.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\numero pares de 0 a 100\obj\Debug\numero pares de 0 a 100.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\numero pares de 0 a 100\obj\Debug\numero pares de 0 a 100.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\numero pares de 0 a 100\obj\Debug\numero pares de 0 a 100.pdb
