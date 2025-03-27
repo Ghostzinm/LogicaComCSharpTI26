@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\multiplo de 5 ou de 3\bin\Debug\multiplo de 5 ou de 3.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\multiplo de 5 ou de 3\bin\Debug\multiplo de 5 ou de 3.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\multiplo de 5 ou de 3\bin\Debug\multiplo de 5 ou de 3.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\multiplo de 5 ou de 3\obj\Debug\multiplo de 5 ou de 3.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\multiplo de 5 ou de 3\obj\Debug\multiplo de 5 ou de 3.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\multiplo de 5 ou de 3\obj\Debug\multiplo de 5 ou de 3.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\multiplo de 5 ou de 3\obj\Debug\multiplo de 5 ou de 3.pdb
