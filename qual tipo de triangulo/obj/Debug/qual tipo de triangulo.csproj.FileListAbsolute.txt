@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual tipo de triangulo\bin\Debug\qual tipo de triangulo.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual tipo de triangulo\bin\Debug\qual tipo de triangulo.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual tipo de triangulo\bin\Debug\qual tipo de triangulo.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual tipo de triangulo\obj\Debug\qual tipo de triangulo.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual tipo de triangulo\obj\Debug\qual tipo de triangulo.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual tipo de triangulo\obj\Debug\qual tipo de triangulo.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\qual tipo de triangulo\obj\Debug\qual tipo de triangulo.pdb
