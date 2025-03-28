@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\todos numeros impares ate 100 (for)\bin\Debug\todos numeros impares ate 100 (for).exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\todos numeros impares ate 100 (for)\bin\Debug\todos numeros impares ate 100 (for).exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\todos numeros impares ate 100 (for)\bin\Debug\todos numeros impares ate 100 (for).pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\todos numeros impares ate 100 (for)\obj\Debug\todos numeros impares ate 100 (for).csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\todos numeros impares ate 100 (for)\obj\Debug\todos numeros impares ate 100 (for).csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\todos numeros impares ate 100 (for)\obj\Debug\todos numeros impares ate 100 (for).exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\todos numeros impares ate 100 (for)\obj\Debug\todos numeros impares ate 100 (for).pdb
