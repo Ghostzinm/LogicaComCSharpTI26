@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\verdadeiro ou falso\bin\Debug\verdadeiro ou falso.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\verdadeiro ou falso\bin\Debug\verdadeiro ou falso.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\verdadeiro ou falso\bin\Debug\verdadeiro ou falso.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\verdadeiro ou falso\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\verdadeiro ou falso\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\verdadeiro ou falso\obj\Debug\verdadeiro ou falso.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\verdadeiro ou falso\obj\Debug\verdadeiro ou falso.pdb
