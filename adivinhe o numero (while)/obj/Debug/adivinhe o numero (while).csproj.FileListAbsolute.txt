@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero (while)\bin\Debug\adivinhe o numero (while).exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero (while)\bin\Debug\adivinhe o numero (while).exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero (while)\bin\Debug\adivinhe o numero (while).pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero (while)\obj\Debug\adivinhe o numero (while).csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero (while)\obj\Debug\adivinhe o numero (while).csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero (while)\obj\Debug\adivinhe o numero (while).exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero (while)\obj\Debug\adivinhe o numero (while).pdb
