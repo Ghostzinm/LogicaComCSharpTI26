@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero\bin\Debug\adivinhe o numero.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero\bin\Debug\adivinhe o numero.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero\bin\Debug\adivinhe o numero.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero\obj\Debug\adivinhe o numero.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero\obj\Debug\adivinhe o numero.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero\obj\Debug\adivinhe o numero.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\adivinhe o numero\obj\Debug\adivinhe o numero.pdb
