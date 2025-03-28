@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\reajuste de 5%\bin\Debug\reajuste de 5%.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\reajuste de 5%\bin\Debug\reajuste de 5%.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\reajuste de 5%\bin\Debug\reajuste de 5%.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\reajuste de 5%\obj\Debug\reajuste de 5%.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\reajuste de 5%\obj\Debug\reajuste de 5%.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\reajuste de 5%\obj\Debug\reajuste de 5%.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\reajuste de 5%\obj\Debug\reajuste de 5%.pdb
