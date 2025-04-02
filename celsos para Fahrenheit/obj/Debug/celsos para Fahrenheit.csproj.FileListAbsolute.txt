@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\celsos para Fahrenheit\bin\Debug\celsos para Fahrenheit.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\celsos para Fahrenheit\bin\Debug\celsos para Fahrenheit.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\celsos para Fahrenheit\bin\Debug\celsos para Fahrenheit.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\celsos para Fahrenheit\obj\Debug\celsos para Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\celsos para Fahrenheit\obj\Debug\celsos para Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\celsos para Fahrenheit\obj\Debug\celsos para Fahrenheit.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\celsos para Fahrenheit\obj\Debug\celsos para Fahrenheit.pdb
