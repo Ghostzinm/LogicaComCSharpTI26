@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\trocando valor de A e B\bin\Debug\trocando valor de A e B.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\trocando valor de A e B\bin\Debug\trocando valor de A e B.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\trocando valor de A e B\bin\Debug\trocando valor de A e B.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\trocando valor de A e B\obj\Debug\trocando valor de A e B.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\trocando valor de A e B\obj\Debug\trocando valor de A e B.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\trocando valor de A e B\obj\Debug\trocando valor de A e B.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\trocando valor de A e B\obj\Debug\trocando valor de A e B.pdb
