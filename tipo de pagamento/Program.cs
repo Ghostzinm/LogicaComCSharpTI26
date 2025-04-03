@@ -21,16 +21,38 @@ namespace tipo_de_pagamento
  4 - Parcelado no cartão em três vezes ou mais, preço normal do produto mais juros de 10%
 */
 
+            Console.Title = "Valores Inteiros";
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.Write(@"
+╔════════════════════════════════════════════════════════════════════════════════════╗ 
+
+     ___                                __     
+    / _ \___ ____ ____ ___ _  ___ ___  / /____ 
+   / ___/ _ `/ _ `/ _ `/  ' \/ -_) _ \/ __/ _ \
+  /_/   \_,_/\_, /\_,_/_/_/_/\__/_//_/\__/\___/
+            /___/                              
+║                                                                              
+╚════════════════════════════════════════════════════════════════════════════════════╝");
+           
+            Console.ResetColor();
+
             double valor, valor_total, opção, desconto;
 
-            Console.WriteLine("coloque o valor do produto");
+            Console.WriteLine("\n coloque o valor do produto");
             valor = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Escolha o metodo de pagamento: \n 1 - À Vista em Dinheiro ou Pix, recebe 15% de desconto\r\n 2 - À Vista no cartão de crédito, recebe 10% de desconto\r\n 3 - Parcelado no cartão em duas vezes, preço normal do produto sem juros\r\n 4 - Parcelado no cartão em três vezes ou mais, preço normal do produto mais juros de 10%");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("╔════════════════════════════════════════════════════════════════════════════════════════════════╗ " +
+                "\n Escolha o metodo de pagamento: \n " +
+                "1 - À Vista em Dinheiro ou Pix, recebe 15% de desconto\r\n " +
+                "2 - À Vista no cartão de crédito, recebe 10% de desconto\r\n " +
+                "3 - Parcelado no cartão em duas vezes, preço normal do produto sem juros\r\n " +
+                "4 - Parcelado no cartão em três vezes ou mais, preço normal do produto mais juros de 10%\n" +
+                "╚════════════════════════════════════════════════════════════════════════════════════════════════╝");
             opção = double.Parse(Console.ReadLine());
+            Console.ResetColor();
 
-
-                if (opção == 1)
+            if (opção == 1)
                 {
                     desconto = valor * 0.15;
                     valor_total = valor - desconto;
