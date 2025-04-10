@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baruque.rsilva\\source\\repos\\LogicaComCSharpTI26\\LogicaComCSharp\\Cadastro de Albuns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A515F69-56F9-4141-8A9D-5D4E6D8B77A2}|Cadastro de Albuns.csproj|c:\\users\\baruque.rsilva\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\cadastro de albuns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A515F69-56F9-4141-8A9D-5D4E6D8B77A2}|Cadastro de Albuns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A515F69-56F9-4141-8A9D-5D4E6D8B77A2}|Cadastro de Albuns.csproj|c:\\users\\baruque.rsilva\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\cadastro de albuns\\cadastro_artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A515F69-56F9-4141-8A9D-5D4E6D8B77A2}|Cadastro de Albuns.csproj|solutionrelative:cadastro_artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastro_Artista.cs",
+              "DocumentMoniker": "C:\\Users\\baruque.rsilva\\source\\repos\\LogicaComCSharpTI26\\LogicaComCSharp\\Cadastro de Albuns\\Cadastro_Artista.cs",
+              "RelativeDocumentMoniker": "Cadastro_Artista.cs",
+              "ToolTip": "C:\\Users\\baruque.rsilva\\source\\repos\\LogicaComCSharpTI26\\LogicaComCSharp\\Cadastro de Albuns\\Cadastro_Artista.cs",
+              "RelativeToolTip": "Cadastro_Artista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:06:59.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baruque.rsilva\\source\\repos\\LogicaComCSharpTI26\\LogicaComCSharp\\Cadastro de Albuns\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\baruque.rsilva\\source\\repos\\LogicaComCSharpTI26\\LogicaComCSharp\\Cadastro de Albuns\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:34:03.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

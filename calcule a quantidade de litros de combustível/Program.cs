@@ -9,21 +9,49 @@ namespace calcule_a_quantidade_de_litros_de_combustível
     internal class Program
     {
         static void Main(string[] args)
-        /* 12- Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz 12km com um litro. Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média, distância percorrida e a quantidade de litros utilizados para fazer a viagem.
+        /* 12- Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz 12km com um litro. 
+         * Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média, distância percorrida e a quantidade de litros utilizados para fazer a viagem.
 Fórmula: distância = tempo x velocidade.
 */
         {
-            double tempo, velocidade, litros, distância;
+            Console.Title = "Valores Inteiros";
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write(@"
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗ 
 
-            Console.WriteLine("digite quantos km tem a viagem");
+
+  _ _ _                       _                            _               _   __          _ 
+ | (_) |                     | |                          | |             | | /_/         | |
+ | |_| |_ _ __ ___  ___    __| | ___    ___ ___  _ __ ___ | |__  _   _ ___| |_ ___   _____| |
+ | | | __| '__/ _ \/ __|  / _` |/ _ \  / __/ _ \| '_ ` _ \| '_ \| | | / __| __| \ \ / / _ \ |
+ | | | |_| | | (_) \__ \ | (_| |  __/ | (_| (_) | | | | | | |_) | |_| \__ \ |_| |\ V /  __/ |
+ |_|_|\__|_|  \___/|___/  \__,_|\___|  \___\___/|_| |_| |_|_.__/ \__,_|___/\__|_| \_/ \___|_|
+                                                                                             
+     
+                   _                                                             _                            
+                  | |                                                           (_)                           
+      __ _  __ _ ___| |_ ___  ___    ___ _ __ ___    _   _ _ __ ___   __ _  __   ___  __ _  __ _  ___ _ __ ___  
+     / _` |/ _` / __| __/ _ \/ __|  / _ \ '_ ` _ \  | | | | '_ ` _ \ / _` | \ \ / / |/ _` |/ _` |/ _ \ '_ ` _ \ 
+    | (_| | (_| \__ \ || (_) \__ \ |  __/ | | | | | | |_| | | | | | | (_| |  \ V /| | (_| | (_| |  __/ | | | | |
+     \__, |\__,_|___/\__\___/|___/  \___|_| |_| |_|  \__,_|_| |_| |_|\__,_|   \_/ |_|\__,_|\__, |\___|_| |_| |_|
+      __/ |                                                                                 __/ |               
+     |___/                                                                                 |___/                
+                                                                                        
+
+                                                                                                                       
+║                                                                              
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝");
+
+            double litros, distância;
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("\n digite quantos km tem a viagem");
             distância = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("digite a velocidade media");
-            velocidade = double.Parse(Console.ReadLine());
-
-            distância = tempo * velocidade;
-
             litros = distância / 12;
+
+            Console.ResetColor();
+            Console.WriteLine("voce irar gastar " + (int) (litros) + " Litros aproximadamente nessa viagem");
 
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\Cadastro de Albuns\obj\Debug\Cadastro de Albuns.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\Cadastro de Albuns\obj\Debug\Cadastro de Albuns.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\Cadastro de Albuns\bin\Debug\Cadastro de Albuns.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\Cadastro de Albuns\bin\Debug\Cadastro de Albuns.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\Cadastro de Albuns\bin\Debug\Cadastro de Albuns.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\Cadastro de Albuns\obj\Debug\Cadastro de Albuns.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\Cadastro de Albuns\obj\Debug\Cadastro de Albuns.pdb

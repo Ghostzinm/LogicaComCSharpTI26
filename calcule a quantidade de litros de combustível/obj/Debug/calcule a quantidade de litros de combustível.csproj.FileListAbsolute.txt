@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calcule a quantidade de litros de combustível\bin\Debug\calcule a quantidade de litros de combustível.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calcule a quantidade de litros de combustível\bin\Debug\calcule a quantidade de litros de combustível.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calcule a quantidade de litros de combustível\bin\Debug\calcule a quantidade de litros de combustível.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calcule a quantidade de litros de combustível\obj\Debug\calcule a quantidade de litros de combustível.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calcule a quantidade de litros de combustível\obj\Debug\calcule a quantidade de litros de combustível.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calcule a quantidade de litros de combustível\obj\Debug\calcule a quantidade de litros de combustível.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\calcule a quantidade de litros de combustível\obj\Debug\calcule a quantidade de litros de combustível.pdb
