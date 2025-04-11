@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\acessa todas as atividades\obj\Debug\acessa todas as atividades.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\acessa todas as atividades\obj\Debug\acessa todas as atividades.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\acessa todas as atividades\bin\Debug\acessa todas as atividades.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\acessa todas as atividades\bin\Debug\acessa todas as atividades.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\acessa todas as atividades\bin\Debug\acessa todas as atividades.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\acessa todas as atividades\obj\Debug\acessa todas as atividades.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\LogicaComCSharp\acessa todas as atividades\obj\Debug\acessa todas as atividades.pdb

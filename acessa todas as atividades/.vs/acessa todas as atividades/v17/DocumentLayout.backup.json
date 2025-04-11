@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baruque.rsilva\\source\\repos\\LogicaComCSharpTI26\\LogicaComCSharp\\acessa todas as atividades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93E13521-BAF1-4BE9-9B91-A585117BDC8F}|acessa todas as atividades.csproj|c:\\users\\baruque.rsilva\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\acessa todas as atividades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E13521-BAF1-4BE9-9B91-A585117BDC8F}|acessa todas as atividades.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E13521-BAF1-4BE9-9B91-A585117BDC8F}|acessa todas as atividades.csproj|c:\\users\\baruque.rsilva\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\acessa todas as atividades\\numeros impares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E13521-BAF1-4BE9-9B91-A585117BDC8F}|acessa todas as atividades.csproj|solutionrelative:numeros impares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Numeros impares.cs",
+              "DocumentMoniker": "C:\\Users\\baruque.rsilva\\source\\repos\\LogicaComCSharpTI26\\LogicaComCSharp\\acessa todas as atividades\\Numeros impares.cs",
+              "RelativeDocumentMoniker": "Numeros impares.cs",
+              "ToolTip": "C:\\Users\\baruque.rsilva\\source\\repos\\LogicaComCSharpTI26\\LogicaComCSharp\\acessa todas as atividades\\Numeros impares.cs*",
+              "RelativeToolTip": "Numeros impares.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:50:07.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baruque.rsilva\\source\\repos\\LogicaComCSharpTI26\\LogicaComCSharp\\acessa todas as atividades\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\baruque.rsilva\\source\\repos\\LogicaComCSharpTI26\\LogicaComCSharp\\acessa todas as atividades\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:27:48.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
