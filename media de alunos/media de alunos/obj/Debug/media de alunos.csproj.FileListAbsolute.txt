@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\media de alunos\media de alunos\bin\Debug\media de alunos.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\media de alunos\media de alunos\bin\Debug\media de alunos.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\media de alunos\media de alunos\bin\Debug\media de alunos.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\media de alunos\media de alunos\obj\Debug\media de alunos.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\media de alunos\media de alunos\obj\Debug\media de alunos.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\media de alunos\media de alunos\obj\Debug\media de alunos.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\media de alunos\media de alunos\obj\Debug\media de alunos.pdb

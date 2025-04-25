@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\numero aleatorio\numero aleatorio\bin\Debug\numero aleatorio.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\numero aleatorio\numero aleatorio\bin\Debug\numero aleatorio.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\numero aleatorio\numero aleatorio\bin\Debug\numero aleatorio.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\numero aleatorio\numero aleatorio\obj\Debug\numero aleatorio.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\numero aleatorio\numero aleatorio\obj\Debug\numero aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\numero aleatorio\numero aleatorio\obj\Debug\numero aleatorio.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\numero aleatorio\numero aleatorio\obj\Debug\numero aleatorio.pdb
