@@ -9,7 +9,7 @@ namespace media_de_alunos
             //· "Crie um programa que armazene as notas de 30 alunos e calcule a média da turma."
 
             string[] alunos = { "Maria Souza", "João Silva", "Pedro Oliveira", "Ana Costa", "Lucas Pereira", "Carla Mendes", "Gabriel Rocha", "Fernanda Almeida", "Thiago Santos", "Juliana Lima", "Rafael Fernandes", "Beatriz Martins", "Felipe Gomes", "Luana Ferreira", "Marcos Ribeiro", "Larissa Almeida", "André Costa", "Camila Oliveira", "Victor Silva", "Larissa Souza", "Leonardo Alves", "Renata Pereira", "Gustavo Carvalho", "Juliana Rocha", "Samuel Dias", "Mariana Costa", "Felipe Rodrigues", "Carolina Mendes", "João Pedro Santos", "Vanessa Silva" };
-            double[] notas = { 8, 4, 9, 6, 5, 7, 4, 6, 10, 9, 8, 3, 6, 7, 4, 10, 6, 8, 7, 5, 8, 6, 4, 9, 5, 10, 8, 7, 10, 8 };
+            double[] notas = { 8.5, 4, 9, 6, 5, 7, 4, 6.4, 10, 9, 8, 3, 6, 7, 4, 10, 6.9, 8, 7, 5, 8, 6, 4, 9, 5, 10, 8, 7, 10, 8 };
             double soma = 0;
             double media = 0;
 
@@ -24,13 +24,10 @@ namespace media_de_alunos
                 Console.Write("\t\t");
                 Console.WriteLine(notas[i]);
 
-                soma += notas[i];
-               
-
+                soma += notas[i];  
             }
             media = soma / 30;
             Console.WriteLine("\nMédia da turma: " + media);
-
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\produtos em esroque\produtos em esroque\obj\Debug\produtos em estoque.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\produtos em esroque\produtos em esroque\obj\Debug\produtos em estoque.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\produtos em esroque\produtos em esroque\obj\Debug\produtos em esroque.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\produtos em esroque\produtos em esroque\obj\Debug\produtos em esroque.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\produtos em esroque\produtos em esroque\bin\Debug\produtos em esroque.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\produtos em esroque\produtos em esroque\bin\Debug\produtos em esroque.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\produtos em esroque\produtos em esroque\bin\Debug\produtos em esroque.pdb

@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\desconto nos produtos\desconto nos produtos\bin\Debug\desconto nos produtos.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\desconto nos produtos\desconto nos produtos\bin\Debug\desconto nos produtos.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\desconto nos produtos\desconto nos produtos\bin\Debug\desconto nos produtos.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\desconto nos produtos\desconto nos produtos\obj\Debug\desconto nos produtos.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\desconto nos produtos\desconto nos produtos\obj\Debug\desconto nos produtos.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\desconto nos produtos\desconto nos produtos\obj\Debug\desconto nos produtos.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\desconto nos produtos\desconto nos produtos\obj\Debug\desconto nos produtos.pdb

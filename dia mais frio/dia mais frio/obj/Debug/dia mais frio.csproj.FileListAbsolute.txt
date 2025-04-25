@@ -1,0 +1,7 @@
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\dia mais frio\dia mais frio\bin\Debug\dia mais frio.exe.config
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\dia mais frio\dia mais frio\bin\Debug\dia mais frio.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\dia mais frio\dia mais frio\bin\Debug\dia mais frio.pdb
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\dia mais frio\dia mais frio\obj\Debug\dia mais frio.csproj.AssemblyReference.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\dia mais frio\dia mais frio\obj\Debug\dia mais frio.csproj.CoreCompileInputs.cache
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\dia mais frio\dia mais frio\obj\Debug\dia mais frio.exe
+C:\Users\baruque.rsilva\source\repos\LogicaComCSharpTI26\dia mais frio\dia mais frio\obj\Debug\dia mais frio.pdb
